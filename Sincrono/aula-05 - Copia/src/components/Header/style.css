@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    
+}
+
+img{
+width: 8rem;
+height: 5rem;
+margin-left: 2rem;
+}
+
+.nav-op{
+    margin-right: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    margin: 0 1rem;
+}
